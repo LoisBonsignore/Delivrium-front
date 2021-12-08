@@ -104,7 +104,7 @@ function Search() {
 
         <div className="newSearch-box">
             <Form>
-                <h2 className="searchH3">Recherhe ton bouquin</h2>
+                <h2 className="searchH3">Recherche ton bouquin</h2>
                 <FloatingLabel controlId="floatingTextarea2" label="Recherche pas livre, auteur ?" className="mb-3" >
                     <Form.Control as="textarea"
                         type="texte"

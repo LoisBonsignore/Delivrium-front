@@ -24,6 +24,7 @@
     padding: 0.5vw;
     margin: auto; 
     font-size: 0.8rem;
+    overflow-wrap: anywhere;
 }
 
 .buttonCrit {

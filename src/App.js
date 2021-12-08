@@ -3,17 +3,17 @@ import './App.css';
 import { useEffect, useState } from "react";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 //Importation des composants
-import Navigation from './Navbar/Navbar'
-import Login from './Login/Login'
-import Signin from './Signin/Signin'
-import Footer from './Footer/Footer'
-import Splashscreen from './Splashscreen/Splashscreen';
-import RGPD from './Rgpd/Rgpd'
-import Contact from './Contact/Contact'
-import Homepage from './Homepage/Homepage'
-import NewCrit from './NewCrit/NewCrit';
-import Profil from './Profil/Profil';
-import Search from './Search/Search';
+import Navigation from './Components/Navbar/Navbar'
+import Login from './Components/Login/Login'
+import Signin from './Components/Signin/Signin'
+import Footer from './Components/Footer/Footer'
+import Splashscreen from './Components/Splashscreen/Splashscreen';
+import RGPD from './Components/Rgpd/Rgpd'
+import Contact from './Components/Contact/Contact'
+import Homepage from './Components/Homepage/Homepage'
+import NewCrit from './Components/NewCrit/NewCrit';
+import Profil from './Components/Profil/Profil';
+import Search from './Components/Search/Search';
 
 
 

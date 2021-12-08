@@ -69,7 +69,7 @@ function Navigation({ isLog, setIsLog }) {
                                     <span className="navText2">Login</span>
                                 </Link>
                                 <Link className="navElement" to="./Signin">
-                                    <span className="navText2">Sign In</span>
+                                    <span className="navText2">Sign Up</span>
                                 </Link>
                             </Navbar.Collapse>
                         </Navbar.Text>
